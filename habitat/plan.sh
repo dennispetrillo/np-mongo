@@ -1,6 +1,6 @@
 pkg_origin=dennis
 pkg_name=np-mongodb
-pkg_version=3.2.9
+pkg_version=9.0.0
 pkg_description="Mongodb for National-Parks app"
 pkg_maintainer="dpetrillo"
 pkg_license=('AGPL-3.0')
